@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Fullstack Application <br><br>🌱 I’m currently learning -Message Queue Architecture  <br><br>💬 Ask me about Node Js , React Js<br><br>📫 How to reach me atharvdalal24@gmail.com<br><br>Connect with me:
 
-
+<a href="https://wakatime.com/@64a29457-6755-4c64-aff7-db8ee590c31e"><img src="https://wakatime.com/badge/user/64a29457-6755-4c64-aff7-db8ee590c31e.svg" alt="Total time coded since Aug 21 2022" /></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharv-dalal-4470a41b9/) 
