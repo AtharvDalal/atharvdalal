@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Fullstack Application <br><br>🌱 I’m currently learning -Message Queue Architecture  <br><br>💬 Ask me about Node Js , React Js<br><br>📫 How to reach me atharvdalal24@gmail.com<br><br>Connect with me:
+🔭 I’m currently working on Backend Heavy Fullstack Application <br><br>🌱 I’m currently learning -Message Queue Architecture  <br><br>💬 Ask me about Node Js , React Js<br><br>📫 How to reach me atharvdalal24@gmail.com<br><br>Connect with me:
 
 
 
