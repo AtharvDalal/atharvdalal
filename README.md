@@ -5,8 +5,29 @@
 🔭 I’m currently working on Backend Heavy Fullstack Application <br><br>🌱 I’m currently learning -Message Queue Architecture  <br><br>💬 Ask me about Node Js , React Js<br><br>📫 How to reach me atharvdalal24@gmail.com<br><br>Connect with me:
 
 
+<table>
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/></td>
+    <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65"/></td>
+    <td><img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65"/></td>
+    <td><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65"/></td>
+    <td><img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="65"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/></td>
+    <td><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65"/></td>
+    <td><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65"/></td>
+    <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/></td>
+    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/></td>
+  </tr>
+</table>
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>
+
+
+
+
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atharvdalal&theme=dark&hide_border=false)<br/>
